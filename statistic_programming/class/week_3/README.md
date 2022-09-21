@@ -25,3 +25,9 @@
         - name = input("What is your name?\n")
         - -> \n으로 input을 좀 더 보기 쉽게 입력
 
+## 과제
+6장 과제
+ex 2번 
+ex 3번
+
+

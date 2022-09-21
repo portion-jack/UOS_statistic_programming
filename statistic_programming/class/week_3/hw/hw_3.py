@@ -20,7 +20,7 @@ print(c(x, y+3, x+y))
 # 6_2
 
 # i = 0
-def A(m,n):
+def ack(m,n):
     # global i
     # i +=1
     if m == 0 :
@@ -34,7 +34,7 @@ def A(m,n):
     else:
         print(f"somting wrong\nm={m}, n={n}")
 
-print(A(3,4))
+print(ack(3,4))
 # print(i)
 
 # 6_3
