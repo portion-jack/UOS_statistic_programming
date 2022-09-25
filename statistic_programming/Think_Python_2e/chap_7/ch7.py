@@ -44,4 +44,8 @@ def eval_loop():
 eval_loop()
 
 # Ex3
+def factorial(a):
+
+_sum = 0
+for k in range(10):
 
