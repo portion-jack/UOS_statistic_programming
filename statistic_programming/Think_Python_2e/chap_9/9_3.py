@@ -3,7 +3,3 @@ def avoids(w,s) -> bool:
         return False
     return True
 
-print(avoids('hi','hi my name is jack'))
-print(avoids('jack','hi my name is john'))
-
-
